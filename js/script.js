@@ -17,7 +17,7 @@ const productos = [
 ////////////////////////////////////////////////////// Creo el usuario
 function crearUsuario(nombre, monedas, pokemon) {
     alert('Hola! Bienvenidx al Centro Pokemon 👩‍⚕️🔴. \nAntes de empezar, necesitamos registrarte en el sistema. 👩‍💻')
-    nombre = prompt('Entrenador, cual es tu nombre? 🕶');
+    nombre = prompt('Entrenadorx, cual es tu nombre? 🕶');
     monedas = parseInt(prompt('Con cuántas monedas disponés ahora mismo ? 💰 '));
     pokemon = parseInt(prompt('Qué starter te elegiste? \n 1. Charmander🔥 \n 2. Bulbasur🍃 \n 3. Squirtle🌊 '));
 
